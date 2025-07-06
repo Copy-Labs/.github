@@ -30,7 +30,7 @@ In 5 years, COPY Labs aspires to have the manpower, expertise, and technological
 - **Who are we?**  
   COPY Labs is a community of passionate technologists who learn by rebuilding and improving upon the best in tech.
 - **Want to contribute?**  
-  Check out our contribution guidelines!
+  Check out our contribution guidelines! [Contribution Guidelines](../CONTRIBUTING.md) before submitting a pull request.
 - **Resources:**  
   [Read our Docs](#) | [Join the Discussion](#)
 - **Fun fact:**  

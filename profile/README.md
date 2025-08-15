@@ -1,6 +1,6 @@
 # 👋 Welcome to COPY Labs
 
-At COPY Labs, we believe true innovation begins with understanding. Our mission is to deeply explore and rebuild existing technologies, so we can learn from them and ultimately create better solutions.
+At COPY Labs, we believe true innovation begins with understanding. Our mission is to help devs gain practical industry experience by deeply exploring and rebuild existing technologies, so we can learn from them and ultimately create better solutions.
 
 ---
 
